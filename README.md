@@ -9,8 +9,11 @@ A full-stack React web application that connects users with trusted local servic
 
 ## 📸 Screenshots
 
-### Login Page
-![Login](screenshots/login.png)
+### Login / Sign In Page
+![Login](screenshots/login_signin.png)
+
+### New User Sign Up
+![Signup](screenshots/newuser_signup.png)
 
 ### Email Verification
 ![Verification](screenshots/verification_thrumail.png)
@@ -39,7 +42,7 @@ A full-stack React web application that connects users with trusted local servic
 ### Admin Panel
 ![Admin](screenshots/admin.png)
 
----
+
 
 ## 📋 Overview
 
