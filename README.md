@@ -3,7 +3,7 @@
 A full-stack React web application that connects users with trusted local service providers — plumbers, electricians, and more — in their city. Built using Firebase Authentication, TypeScript, and Tailwind CSS.
 
 🚧 Live Demo: coming soon  
-💻 GitHub: https://github.com/YOUR_USERNAME/local-service-finder
+💻 GitHub: https://github.com/nausheenfatima2909/local-service-finder
 
 ---
 
